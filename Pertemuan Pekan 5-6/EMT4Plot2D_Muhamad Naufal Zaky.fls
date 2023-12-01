@@ -1,0 +1,1245 @@
+PWD d:\Aplikasi Komputer\Pertemuan Pekan 5-6
+INPUT C:\Users\ASUS\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\Aplikasi Komputer\Pertemuan Pekan 5-6\EMT4Plot2D_Muhamad Naufal Zaky.tex
+OUTPUT EMT4Plot2D_Muhamad Naufal Zaky.log
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT .\eumat.sty
+INPUT eumat.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\helvet.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\helvet.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\courier.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\courier.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ot1ppl.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ot1ppl.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ot1ppl.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr7t.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\t1ppl.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\t1ppl.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\t1ppl.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8t.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\grffile\grffile.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\grffile\grffile.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\alltt.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\alltt.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\EMT4Plot2D_Muhamad Naufal Zaky.aux
+INPUT .\EMT4Plot2D_Muhamad Naufal Zaky.aux
+INPUT EMT4Plot2D_Muhamad Naufal Zaky.aux
+OUTPUT EMT4Plot2D_Muhamad Naufal Zaky.aux
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplb8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplb8t.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\t1pcr.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\t1pcr.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\t1pcr.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\courier\pcrr8t.tfm
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-001.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-001.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-001.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-001.png
+OUTPUT EMT4Plot2D_Muhamad Naufal Zaky.pdf
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-001.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-001.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-001.png
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplb8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
+INPUT C:\Users\ASUS\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\base\8r.enc
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplr8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplb8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\courier\pcrr8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\courier\pcrr8r.tfm
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-002.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-002.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-002.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-002.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-002.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-002.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-002.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-003.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-003.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-003.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-003.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-003.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-003.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-003.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-004.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-004.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-004.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-004.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-004.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-004.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-004.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-005.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-005.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-005.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-005.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-005.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-005.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-005.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-006.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-006.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-006.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-006.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-006.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-006.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-006.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-007.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-007.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-007.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-007.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-007.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-007.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-007.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-008.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-008.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-008.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-008.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-008.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-008.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-008.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-009.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-009.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-009.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-009.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-009.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-009.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-009.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-010.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-010.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-010.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-010.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-010.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-010.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-010.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-011.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-011.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-011.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-011.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-011.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-011.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-011.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-012.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-012.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-012.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-012.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-012.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-012.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-012.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-013.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-013.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-013.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-013.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-013.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-013.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-013.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-014.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-014.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-014.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-014.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-014.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-014.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-014.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-015.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-015.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-015.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-015.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-015.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-015.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-015.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-016.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-016.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-016.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-016.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-016.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-016.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-016.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-017.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-017.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-017.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-017.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-017.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-017.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-017.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-018.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-018.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-018.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-018.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-018.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-018.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-018.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-019.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-019.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-019.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-019.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-019.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-019.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-019.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-020.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-020.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-020.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-020.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-020.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-020.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-020.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-021.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-021.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-021.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-021.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-021.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-021.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-021.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-022.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-022.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-022.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-022.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-022.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-022.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-022.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-023.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-023.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-023.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-023.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-023.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-023.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-023.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-024.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-024.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-024.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-024.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-024.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-024.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-024.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-025.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-025.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-025.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-025.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-025.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-025.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-025.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-026.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-026.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-026.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-026.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-026.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-026.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-026.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-027.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-027.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-027.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-027.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-027.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-027.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-027.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-028.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-028.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-028.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-028.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-028.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-028.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-028.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-029.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-029.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-029.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-029.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-029.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-029.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-029.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-030.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-030.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-030.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-030.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-030.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-030.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-030.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-031.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-031.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-031.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-031.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-031.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-031.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-031.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-032.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-032.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-032.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-032.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-032.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-032.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-032.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-033.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-033.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-033.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-033.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-033.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-033.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-033.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-034.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-034.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-034.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-034.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-034.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-034.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-034.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-035.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-035.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-035.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-035.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-035.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-035.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-035.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-036.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-036.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-036.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-036.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-036.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-036.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-036.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-037.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-037.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-037.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-037.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-037.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-037.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-037.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-038.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-038.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-038.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-038.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-038.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-038.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-038.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-039.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-039.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-039.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-039.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-039.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-039.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-039.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-040.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-040.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-040.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-040.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-040.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-040.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-040.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-041.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-041.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-041.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-041.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-041.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-041.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-041.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-042.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-042.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-042.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-042.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-042.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-042.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-042.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-044.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-044.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-044.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-044.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-044.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-044.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-044.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-046.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-046.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-046.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-046.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-046.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-046.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-046.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-047.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-047.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-047.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-047.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-047.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-047.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-047.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-048.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-048.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-048.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-048.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-048.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-048.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-048.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-049.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-049.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-049.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-049.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-049.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-049.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-049.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-050.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-050.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-050.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-050.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-050.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-050.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-050.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-051.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-051.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-051.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-051.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-051.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-051.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-051.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-052.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-052.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-052.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-052.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-052.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-052.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-052.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-053.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-053.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-053.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-053.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-053.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-053.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-053.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-054.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-054.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-054.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-054.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-054.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-054.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-054.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-055.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-055.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-055.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-055.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-055.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-055.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-055.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-056.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-056.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-056.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-056.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-056.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-056.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-056.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-057.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-057.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-057.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-057.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-057.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-057.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-057.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-058.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-058.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-058.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-058.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-058.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-058.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-058.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-059.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-059.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-059.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-059.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-059.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-059.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-059.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-060.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-060.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-060.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-060.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-060.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-060.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-060.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-061.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-061.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-061.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-061.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-061.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-061.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-061.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-062.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-062.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-062.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-062.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-062.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-062.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-062.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-063.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-063.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-063.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-063.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-063.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-063.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-063.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-064.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-064.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-064.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-064.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-064.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-064.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-064.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-065.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-065.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-065.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-065.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-065.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-065.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-065.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-066.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-066.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-066.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-066.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-066.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-066.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-066.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-067.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-067.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-067.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-067.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-067.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-067.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-067.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-068.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-068.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-068.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-068.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-068.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-068.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-068.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-069.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-069.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-069.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-069.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-069.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-069.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-069.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-070.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-070.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-070.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-070.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-070.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-070.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-070.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-071.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-071.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-071.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-071.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-071.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-071.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-071.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-072.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-072.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-072.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-072.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-072.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-072.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-072.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-073.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-073.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-073.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-073.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-073.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-073.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-073.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-074.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-074.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-074.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-074.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-074.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-074.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-074.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-075.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-075.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-075.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-075.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-075.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-075.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-075.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-076.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-076.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-076.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-076.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-076.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-076.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-076.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-077.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-077.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-077.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-077.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-077.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-077.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-077.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-078.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-078.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-078.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-078.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-078.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-078.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-078.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-079.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-079.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-079.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-079.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-079.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-079.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-079.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-080.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-080.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-080.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-080.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-080.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-080.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-080.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-081.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-081.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-081.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-081.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-081.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-081.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-081.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-082.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-082.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-082.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-082.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-082.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-082.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-082.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-083.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-083.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-083.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-083.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-083.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-083.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-083.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-084.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-084.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-084.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-084.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-084.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-084.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-084.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-085.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-085.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-085.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-085.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-085.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-085.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-085.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-086.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-086.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-086.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-086.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-086.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-086.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-086.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-087.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-087.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-087.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-087.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-087.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-087.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-087.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-088.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-088.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-088.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-088.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-088.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-088.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-088.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-089.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-089.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-089.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-089.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-089.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-089.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-089.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-090.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-090.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-090.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-090.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-090.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-090.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-090.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-091.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-091.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-091.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-091.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-091.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-091.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-091.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-092.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-092.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-092.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-092.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-092.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-092.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-092.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-093.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-093.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-093.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-093.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-093.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-093.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-093.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-094.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-094.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-094.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-094.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-094.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-094.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-094.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-096.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-096.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-096.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-096.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-096.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-096.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-096.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-097.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-097.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-097.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-097.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-097.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-097.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-097.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-099.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-099.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-099.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-099.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-099.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-099.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-099.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-100.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-100.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-100.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-100.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-100.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-100.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-100.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-101.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-101.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-101.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-101.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-101.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-101.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-101.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-104.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-104.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-104.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-104.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-104.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-104.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-104.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-105.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-105.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-105.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-105.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-105.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-105.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-105.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-106.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-106.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-106.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-106.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-106.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-106.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-106.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-107.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-107.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-107.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-107.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-107.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-107.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-107.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-109.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-109.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-109.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-109.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-109.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-109.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-109.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-110.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-110.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-110.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-110.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-110.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-110.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-110.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-111.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-111.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-111.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-111.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-111.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-111.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-111.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-112.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-112.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-112.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-112.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-112.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-112.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-112.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-113.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-113.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-113.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-113.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-113.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-113.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-113.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-114.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-114.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-114.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-114.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-114.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-114.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-114.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-115.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-115.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-115.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-115.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-115.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-115.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-115.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-116.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-116.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-116.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-116.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-116.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-116.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-116.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-117.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-117.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-117.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-117.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-117.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-117.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-117.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-118.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-118.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-118.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-118.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-118.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-118.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-118.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-119.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-119.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-119.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-119.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-119.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-119.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-119.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-120.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-120.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-120.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-120.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-120.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-120.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-120.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-121.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-121.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-121.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-121.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-121.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-121.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-121.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-122.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-122.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-122.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-122.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-122.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-122.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-122.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-123.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-123.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-123.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-123.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-123.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-123.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-123.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-124.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-124.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-124.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-124.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-124.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-124.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-124.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-125.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-125.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-125.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-125.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-125.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-125.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-125.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-126.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-126.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-126.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-126.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-126.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-126.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-126.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-127.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-127.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-127.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-127.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-127.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-127.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-127.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-128.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-128.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-128.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-128.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-128.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-128.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-128.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-129.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-129.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-129.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-129.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-129.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-129.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-129.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-130.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-130.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-130.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-130.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-130.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-130.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-130.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-131.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-131.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-131.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-131.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-131.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-131.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-131.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-132.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-132.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-132.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-132.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-132.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-132.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-132.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-134.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-134.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-134.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-134.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-134.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-134.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-134.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-135.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-135.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-135.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-135.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-135.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-135.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-135.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-136.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-136.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-136.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-136.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-136.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-136.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-136.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-137.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-137.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-137.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-137.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-137.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-137.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-137.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-138.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-138.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-138.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-138.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-138.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-138.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-138.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-139.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-139.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-139.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-139.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-139.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-139.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-139.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-140.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-140.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-140.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-140.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-140.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-140.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-140.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-141.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-141.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-141.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-141.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-141.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-141.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-141.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-142.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-142.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-142.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-142.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-142.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-142.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-142.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-143.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-143.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-143.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-143.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-143.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-143.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-143.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-144.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-144.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-144.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-144.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-144.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-144.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-144.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-146.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-146.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-146.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-146.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-146.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-146.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-146.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-147.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-147.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-147.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-147.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-147.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-147.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-147.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-148.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-148.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-148.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-148.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-148.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-148.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-148.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-149.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-149.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-149.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-149.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-149.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-149.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-149.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-150.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-150.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-150.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-150.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-150.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-150.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-150.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-152.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-152.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-152.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-152.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-152.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-152.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-152.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-154.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-154.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-154.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-154.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-154.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-154.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-154.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-155.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-155.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-155.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-155.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-155.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-155.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-155.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-156.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-156.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-156.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-156.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-156.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-156.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-156.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-157.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-157.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-157.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-157.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-157.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-157.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-157.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-158.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-158.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-158.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-158.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-158.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-158.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-158.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-159.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-159.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-159.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-159.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-159.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-159.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-159.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-160.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-160.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-160.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-160.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-160.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-160.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-160.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-161.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-161.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-161.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-161.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-161.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-161.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-161.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-162.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-162.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-162.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-162.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-162.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-162.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-162.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-163.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-163.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-163.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-163.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-163.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-163.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-163.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-164.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-164.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-164.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-164.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-164.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-164.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-164.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-165.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-165.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-165.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-165.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-165.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-165.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-165.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-166.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-166.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-166.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-166.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-166.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-166.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-166.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-171.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-171.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-171.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-171.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-171.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-171.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-171.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-172.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-172.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-172.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-172.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-172.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-172.png
+INPUT .\images\EMT4Plot2D_Muhamad Naufal Zaky-172.png
+INPUT EMT4Plot2D_Muhamad Naufal Zaky.aux
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\urw\courier\ucrr8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\urw\courier\ucrr8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\urw\palatino\uplb8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\urw\palatino\uplb8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\urw\palatino\uplr8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\urw\palatino\uplr8a.pfb
