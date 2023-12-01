@@ -1,0 +1,1067 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.30)  1 DEC 2023 22:25
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex"
+(d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (eumat.sty (C:\Program Files\MiKTeX\tex/latex/psnfss\helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+ (C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)) (C:\Program Files\MiKTeX\tex/latex/psnfss\courier.sty
+Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 13.
+ (C:\Program Files\MiKTeX\tex/latex/psnfss\ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+) (C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 112.
+ (C:\Program Files\MiKTeX\tex/latex/psnfss\t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+)) (C:\Program Files\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+ (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+ (C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+) (C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx)) (C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (C:\Program Files\MiKTeX\tex/latex/grffile\grffile.sty
+Package: grffile 2019/11/11 v2.1 Extended file name support for graphics (legacy)
+Package grffile Info: This package is an empty stub for compatibility on input line 40.
+) (C:\Program Files\MiKTeX\tex/latex/tools\enumerate.sty
+Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
+\@enLab=\toks18
+) (C:\Program Files\MiKTeX\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen143
+\ar@mcellbox=\box51
+\extrarowheight=\dimen144
+\NC@list=\toks19
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box52
+) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen145
+)) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen146
+) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count194
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count195
+\leftroot@=\count196
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count197
+\DOTSCASE@=\count198
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen147
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count199
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count266
+\dotsspace@=\muskip16
+\c@parentequation=\count267
+\dspbrk@lvl=\count268
+\tag@help=\toks21
+\row@=\count269
+\column@=\count270
+\maxfields@=\count271
+\andhelp@=\toks22
+\eqnshift@=\dimen148
+\alignsep@=\dimen149
+\tagshift@=\dimen150
+\tagwidth@=\dimen151
+\totwidth@=\dimen152
+\lineht@=\dimen153
+\@envbody=\toks23
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (C:\Program Files\MiKTeX\tex/latex/base\alltt.sty
+Package: alltt 2021/01/29 v2.0g defines alltt environment
+) (C:\Program Files\MiKTeX\tex/latex/framed\framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip55
+\fb@frw=\dimen154
+\fb@frh=\dimen155
+\FrameRule=\dimen156
+\FrameSep=\dimen157
+) (C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count272
+\Gm@cntv=\count273
+\c@Gm@tempcnt=\count274
+\Gm@bindingoffset=\dimen158
+\Gm@wd@mp=\dimen159
+\Gm@odd@mp=\dimen160
+\Gm@even@mp=\dimen161
+\Gm@layoutwidth=\dimen162
+\Gm@layoutheight=\dimen163
+\Gm@layouthoffset=\dimen164
+\Gm@layoutvoffset=\dimen165
+\Gm@dimlist=\toks25
+ (C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg))
+Package color Info: Redefining color red on input line 30.
+Package color Info: Redefining color green on input line 31.
+Package color Info: Redefining color black on input line 32.
+Package color Info: Redefining color blue on input line 33.
+\eulerline=\skip56
+) (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count275
+\l__pdf_internal_box=\box55
+) (EMT00-FisrtSteps_Muhamad Naufal Zaky.aux)
+\openout1 = `"EMT00-FisrtSteps_Muhamad Naufal Zaky.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+ (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count276
+\scratchdimen=\dimen166
+\scratchbox=\box56
+\nofMPsegments=\count277
+\nofMParguments=\count278
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count279
+\MPscratchDim=\dimen167
+\MPnumerator=\count280
+\makeMPintoPDFobject=\count281
+\everyMPtoPDFconversion=\toks27
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(100.72379pt, 587.54683pt, 151.08568pt)
+* \paperwidth=597.50787pt
+* \paperheight=839.3563pt
+* \textwidth=483.69684pt
+* \textheight=711.3189pt
+* \oddsidemargin=-14.22636pt
+* \evensidemargin=-14.22636pt
+* \topmargin=0.0pt
+* \headheight=12.0pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=-28.45274pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 64.
+(C:\Program Files\MiKTeX\tex/latex/psnfss\t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 67.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 67.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{C:/Users/ASUS/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}]
+<images/EMT00-FisrtSteps_Muhamad Naufal Zaky-004.png, id=9, 335.75438pt x 338.76563pt>
+File: images/EMT00-FisrtSteps_Muhamad Naufal Zaky-004.png Graphic file (type png)
+<use images/EMT00-FisrtSteps_Muhamad Naufal Zaky-004.png>
+Package pdftex.def Info: images/EMT00-FisrtSteps_Muhamad Naufal Zaky-004.png  used on input line 106.
+(pdftex.def)             Requested size: 261.66194pt x 264.0pt.
+ [2 <./images/EMT00-FisrtSteps_Muhamad Naufal Zaky-004.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:142: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.142 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:156: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.156 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:164: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.164 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:170: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.170 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:196: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.196 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[3]
+LaTeX Font Info:    Trying to load font information for TS1+pcr on input line 203.
+ (C:\Program Files\MiKTeX\tex/latex/psnfss\ts1pcr.fd
+File: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.
+)
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:205: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.205 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 212.
+(C:\Program Files\MiKTeX\tex/latex/psnfss\ts1ppl.fd
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+)
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:226: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.226 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:244: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.244 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:254: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.254 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:265: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.265 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[4]
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:277: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.277 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:325: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.325 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[5]
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:341: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.341 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:347: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.347 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:353: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.353 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:359: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.359 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:365: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.365 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:371: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.371 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:377: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.377 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:394: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.394 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[6]
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:406: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.406 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:430: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.430 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:443: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.443 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[7]
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:469: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.469 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:487: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.487 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:505: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.505 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:521: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.521 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:528: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.528 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[8]
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:545: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.545 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:551: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.551 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:567: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.567 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:573: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.573 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:579: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.579 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[9]
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:619: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.619 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:631: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.631 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:637: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.637 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:647: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.647 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:662: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.662 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[10]
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:684: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.684 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:693: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.693 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:705: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.705 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:716: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.716 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:730: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.730 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[11]
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:736: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.736 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:749: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.749 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:755: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.755 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:764: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.764 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:778: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.778 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:786: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.786 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[12]
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:796: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.796 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:804: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.804 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (110.30316pt too wide) in paragraph at lines 810--810
+[]\T1/pcr/m/n/10 >::: trigsimp(((1-sin(x)^2)*cos(x))/cos(x)^2+tan(x)*sec(x)^2) //menyederhanakan fungsi trigonometri[] 
+ []
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:812: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.812 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:827: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.827 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:838: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.838 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:851: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.851 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[13]
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:859: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.859 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:874: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.874 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:886: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.886 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (12.44798pt too wide) in paragraph at lines 896--902
+[]\T1/ppl/m/n/10 Anda da-pat menampilkan hasil per-hi-tu-nagn sim-bo-lik se-cara lebih bagus meng-gu-nakan La-TeX. Un-tuk melakukan
+ []
+
+[14]
+Overfull \hbox (4.83746pt too wide) in paragraph at lines 950--952
+[]\T1/ppl/m/n/10 Sebagai lati-han un-tuk mem-per-lan-car peng-gu-naan perintah-perintah EMT yang su-dah di-je-laskan di atas, silakan
+ []
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:962: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.962 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:969: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.969 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:975: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.975 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:982: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.982 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[15]
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:988: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.988 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:997: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.997 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:1000: LaTeX Error: \begin{eulercomment} on input line 80 ended by \end{eulernotebook}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1000 \end{eulernotebook}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+d:/Aplikasi Komputer/Pertemuan Pekan 2/EMT00-FisrtSteps_Muhamad Naufal Zaky.tex:1001: LaTeX Error: \begin{eulercomment} on input line 75 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1001 \end{document}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[16] (EMT00-FisrtSteps_Muhamad Naufal Zaky.aux)
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+ ***********
+ )
+(\end occurred inside a group at level 2)
+
+### semi simple group (level 2) entered at line 75 (\begingroup)
+### semi simple group (level 1) entered at line 6 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 3416 strings out of 474587
+ 52178 string characters out of 5755519
+ 1942558 words of memory out of 5000000
+ 25537 multiletter control sequences out of 15000+600000
+ 568029 words of font info for 58 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,6n,79p,295b,393s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb>
+Output written on "EMT00-FisrtSteps_Muhamad Naufal Zaky.pdf" (16 pages, 170703 bytes).
+PDF statistics:
+ 101 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
