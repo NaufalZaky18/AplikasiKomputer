@@ -1,0 +1,1791 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.30)  1 DEC 2023 22:27
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex"
+(d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (eumat.sty (C:\Program Files\MiKTeX\tex/latex/psnfss\helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+ (C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)) (C:\Program Files\MiKTeX\tex/latex/psnfss\courier.sty
+Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 13.
+ (C:\Program Files\MiKTeX\tex/latex/psnfss\ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+) (C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 112.
+ (C:\Program Files\MiKTeX\tex/latex/psnfss\t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+)) (C:\Program Files\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+ (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+ (C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+) (C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx)) (C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (C:\Program Files\MiKTeX\tex/latex/grffile\grffile.sty
+Package: grffile 2019/11/11 v2.1 Extended file name support for graphics (legacy)
+Package grffile Info: This package is an empty stub for compatibility on input line 40.
+) (C:\Program Files\MiKTeX\tex/latex/tools\enumerate.sty
+Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
+\@enLab=\toks18
+) (C:\Program Files\MiKTeX\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen143
+\ar@mcellbox=\box51
+\extrarowheight=\dimen144
+\NC@list=\toks19
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box52
+) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen145
+)) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen146
+) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count194
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count195
+\leftroot@=\count196
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count197
+\DOTSCASE@=\count198
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen147
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count199
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count266
+\dotsspace@=\muskip16
+\c@parentequation=\count267
+\dspbrk@lvl=\count268
+\tag@help=\toks21
+\row@=\count269
+\column@=\count270
+\maxfields@=\count271
+\andhelp@=\toks22
+\eqnshift@=\dimen148
+\alignsep@=\dimen149
+\tagshift@=\dimen150
+\tagwidth@=\dimen151
+\totwidth@=\dimen152
+\lineht@=\dimen153
+\@envbody=\toks23
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (C:\Program Files\MiKTeX\tex/latex/base\alltt.sty
+Package: alltt 2021/01/29 v2.0g defines alltt environment
+) (C:\Program Files\MiKTeX\tex/latex/framed\framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip55
+\fb@frw=\dimen154
+\fb@frh=\dimen155
+\FrameRule=\dimen156
+\FrameSep=\dimen157
+) (C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count272
+\Gm@cntv=\count273
+\c@Gm@tempcnt=\count274
+\Gm@bindingoffset=\dimen158
+\Gm@wd@mp=\dimen159
+\Gm@odd@mp=\dimen160
+\Gm@even@mp=\dimen161
+\Gm@layoutwidth=\dimen162
+\Gm@layoutheight=\dimen163
+\Gm@layouthoffset=\dimen164
+\Gm@layoutvoffset=\dimen165
+\Gm@dimlist=\toks25
+ (C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg))
+Package color Info: Redefining color red on input line 30.
+Package color Info: Redefining color green on input line 31.
+Package color Info: Redefining color black on input line 32.
+Package color Info: Redefining color blue on input line 33.
+\eulerline=\skip56
+) (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count275
+\l__pdf_internal_box=\box55
+) (EMT4Geometry_Muhamad Naufal Zaky.aux)
+\openout1 = `"EMT4Geometry_Muhamad Naufal Zaky.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+ (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count276
+\scratchdimen=\dimen166
+\scratchbox=\box56
+\nofMPsegments=\count277
+\nofMParguments=\count278
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count279
+\MPscratchDim=\dimen167
+\MPnumerator=\count280
+\makeMPintoPDFobject=\count281
+\everyMPtoPDFconversion=\toks27
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(100.72379pt, 587.54683pt, 151.08568pt)
+* \paperwidth=597.50787pt
+* \paperheight=839.3563pt
+* \textwidth=483.69684pt
+* \textheight=711.3189pt
+* \oddsidemargin=-14.22636pt
+* \evensidemargin=-14.22636pt
+* \topmargin=0.0pt
+* \headheight=12.0pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=-28.45274pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 16.
+(C:\Program Files\MiKTeX\tex/latex/psnfss\t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:19: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.19 \begin{euleroutput}
+                        
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1
+
+{C:/Users/ASUS/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}] [2]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:171: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.171 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-001.png, id=11, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-001.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-001.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-001.png  used on input line 193.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+[3]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 199.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 199.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:206: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.206 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:215: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.215 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[4 <./images/EMT4Geometry_Muhamad Naufal Zaky-001.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:224: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.224 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:233: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.233 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Trying to load font information for TS1+pcr on input line 234.
+(C:\Program Files\MiKTeX\tex/latex/psnfss\ts1pcr.fd
+File: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.
+)
+<images/EMT4Geometry_Muhamad Naufal Zaky-003.png, id=22, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-003.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-003.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-003.png  used on input line 246.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:253: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.253 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[5 <./images/EMT4Geometry_Muhamad Naufal Zaky-003.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:266: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.266 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:277: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.277 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (68.30316pt too wide) in paragraph at lines 281--281
+[]\T1/pcr/m/n/10 >plotCircle(circleWithCenter(P,r),"Lingkaran dalam segitiga ABC"): // gambar lingkaran dalam[] 
+ []
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-004.png, id=26, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-004.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-004.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-004.png  used on input line 283.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+[6 <./images/EMT4Geometry_Muhamad Naufal Zaky-004.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-005.png, id=30, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-005.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-005.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-005.png  used on input line 292.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+<images/EMT4Geometry_Muhamad Naufal Zaky-006.png, id=31, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-006.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-006.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-006.png  used on input line 301.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [7 <./images/EMT4Geometry_Muhamad Naufal Zaky-005.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:308: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.308 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:316: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.316 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (68.30316pt too wide) in paragraph at lines 329--329
+[]\T1/pcr/m/n/10 >plotCircle(circleWithCenter(P,r),"Lingkaran dalam segitiga ABC"): // gambar lingkaran dalam[] 
+ []
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-007.png, id=36, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-007.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-007.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-007.png  used on input line 331.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+[8 <./images/EMT4Geometry_Muhamad Naufal Zaky-006.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-008.png, id=40, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-008.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-008.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-008.png  used on input line 342.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [9 <./images/EMT4Geometry_Muhamad Naufal Zaky-007.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-009.png, id=44, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-009.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-009.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-009.png  used on input line 351.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [10 <./images/EMT4Geometry_Muhamad Naufal Zaky-008.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:358: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.358 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:366: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.366 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-010.png, id=48, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-010.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-010.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-010.png  used on input line 380.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+[11 <./images/EMT4Geometry_Muhamad Naufal Zaky-009.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-011.png, id=52, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-011.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-011.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-011.png  used on input line 396.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [12 <./images/EMT4Geometry_Muhamad Naufal Zaky-010.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:400: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.400 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:427: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.427 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[13 <./images/EMT4Geometry_Muhamad Naufal Zaky-011.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:434: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.434 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-012.png, id=60, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-012.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-012.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-012.png  used on input line 443.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+[14 <./images/EMT4Geometry_Muhamad Naufal Zaky-012.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:465: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.465 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:472: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.472 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-013.png, id=64, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-013.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-013.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-013.png  used on input line 479.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+[15 <./images/EMT4Geometry_Muhamad Naufal Zaky-013.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:490: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.490 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-014.png, id=68, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-014.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-014.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-014.png  used on input line 496.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+[16 <./images/EMT4Geometry_Muhamad Naufal Zaky-014.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:518: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.518 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-016-large.png, id=72, 188.20313pt x 70.76437pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-016-large.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-016-large.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-016-large.png  used on input line 534.
+(pdftex.def)             Requested size: 29.25446pt x 11.0pt.
+
+Overfull \hbox (188.30316pt too wide) in paragraph at lines 536--536
+[]\T1/pcr/m/n/10 >$getLineEquation(lineThrough([x1,y1],[x2,y2]),x,y), $solve(%,y) // persamaan garis melalui(x1, y1) dan (x2, y2)[] 
+ []
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-018-large.png, id=73, 566.115pt x 92.59593pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-018-large.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-018-large.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-018-large.png  used on input line 543.
+(pdftex.def)             Requested size: 67.24844pt x 11.0pt.
+
+Overfull \hbox (38.30316pt too wide) in paragraph at lines 545--545
+[]\T1/pcr/m/n/10 >$getLineEquation(lineThrough(A,[x1,y1]),x,y) // persamaan garis melalui A dan (x1, y1)[] 
+ []
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:555: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.555 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:563: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.563 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[17 <./images/EMT4Geometry_Muhamad Naufal Zaky-016-large.png> <./images/EMT4Geometry_Muhamad Naufal Zaky-018-large.png>]
+Overfull \hbox (50.30316pt too wide) in paragraph at lines 587--587
+[]\T1/pcr/m/n/10 >cc &= circleThrough(A,B,C); $cc // (titik pusat dan jari-jari) lingkaran melalui A, B, C[] 
+ []
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-024-large.png, id=81, 314.67563pt x 27.10126pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-024-large.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-024-large.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-024-large.png  used on input line 602.
+(pdftex.def)             Requested size: 0.0pt x 0.0pt.
+
+Overfull \hbox (20.30316pt too wide) in paragraph at lines 612--612
+[]\T1/pcr/m/n/10 >$solve(getLineEquation(angleBisector(A,C,B),x,y),y)[1] // persamaan garis bagi <ACB[] 
+ []
+
+
+Overfull \hbox (140.30316pt too wide) in paragraph at lines 620--620
+[]\T1/pcr/m/n/10 >P &= lineIntersection(angleBisector(A,C,B),angleBisector(C,B,A)); $P // titik potong 2 garis bagi sudut[] 
+ []
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:630: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.630 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[18 <./images/EMT4Geometry_Muhamad Naufal Zaky-024-large.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:651: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.651 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-028.png, id=85, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-028.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-028.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-028.png  used on input line 659.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:666: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.666 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[19 <./images/EMT4Geometry_Muhamad Naufal Zaky-028.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:674: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.674 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:694: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.694 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:701: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.701 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-030.png, id=90, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-030.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-030.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-030.png  used on input line 707.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+[20]
+<images/EMT4Geometry_Muhamad Naufal Zaky-031.png, id=94, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-031.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-031.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-031.png  used on input line 727.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [21 <./images/EMT4Geometry_Muhamad Naufal Zaky-030.png>] [22 <./images/EMT4Geometry_Muhamad Naufal Zaky-031.png>]
+Overfull \hbox (50.30316pt too wide) in paragraph at lines 824--824
+[]\T1/pcr/m/n/10 >setPlotRange(-1,10,-1,8); plotPoint([0,0], "C(0,0)"); plotPoint([5.5,0], "B(a,0)");  ...[] 
+ []
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-040.png, id=102, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-040.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-040.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-040.png  used on input line 830.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+[23]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:834: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.834 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[24 <./images/EMT4Geometry_Muhamad Naufal Zaky-040.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:890: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.890 \begin{euleroutput}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (116.30316pt too wide) in paragraph at lines 898--898
+[]\T1/pcr/m/n/10 >aspect (1.5); plot2d(&H(3,4,x),1,7): // Kurva luas segitiga sengan panjang sisi 3, 4, x (1<= x <=7)[] 
+ []
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-044.png, id=109, 406.51875pt x 271.0125pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-044.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-044.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-044.png  used on input line 900.
+(pdftex.def)             Requested size: 313.51042pt x 209.0pt.
+[25 <./images/EMT4Geometry_Muhamad Naufal Zaky-044.png>]
+Overfull \hbox (62.30316pt too wide) in paragraph at lines 929--929
+[]\T1/pcr/m/n/10 >function fx(a,c,d) &= rhs(s1[1]); $fx(a,c,d), function fy(a,c,d) &= rhs(s1[2]); $fy(a,c,d)[] 
+ []
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-048-large.png, id=114, 1020.06094pt x 112.16907pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-048-large.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-048-large.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-048-large.png  used on input line 936.
+(pdftex.def)             Requested size: 200.0551pt x 22.0pt.
+<images/EMT4Geometry_Muhamad Naufal Zaky-049.png, id=115, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-049.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-049.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-049.png  used on input line 944.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+[26 <./images/EMT4Geometry_Muhamad Naufal Zaky-048-large.png> <./images/EMT4Geometry_Muhamad Naufal Zaky-049.png>]
+Overfull \hbox (5.69182pt too wide) detected at line 978
+[]
+ []
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:1000: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.1000 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[27]
+<images/EMT4Geometry_Muhamad Naufal Zaky-056-large.png, id=122, 70.01157pt x 39.14626pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-056-large.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-056-large.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-056-large.png  used on input line 1035.
+(pdftex.def)             Requested size: 0.0pt x 0.0pt.
+<images/EMT4Geometry_Muhamad Naufal Zaky-057.png, id=123, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-057.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-057.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-057.png  used on input line 1045.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [28 <./images/EMT4Geometry_Muhamad Naufal Zaky-056-large.png> <./images/EMT4Geometry_Muhamad Naufal Zaky-057.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-058.png, id=127, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-058.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-058.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-058.png  used on input line 1054.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [29 <./images/EMT4Geometry_Muhamad Naufal Zaky-058.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-060.png, id=131, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-060.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-060.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-060.png  used on input line 1085.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [30 <./images/EMT4Geometry_Muhamad Naufal Zaky-060.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-063.png, id=135, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-063.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-063.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-063.png  used on input line 1138.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [31 <./images/EMT4Geometry_Muhamad Naufal Zaky-063.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:1157: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.1157 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-067-large.png, id=140, 71.51718pt x 88.07906pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-067-large.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-067-large.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-067-large.png  used on input line 1186.
+(pdftex.def)             Requested size: 8.9309pt x 11.0pt.
+<images/EMT4Geometry_Muhamad Naufal Zaky-070.png, id=141, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-070.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-070.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-070.png  used on input line 1213.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+[32 <./images/EMT4Geometry_Muhamad Naufal Zaky-067-large.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-073.png, id=145, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-073.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-073.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-073.png  used on input line 1244.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [33 <./images/EMT4Geometry_Muhamad Naufal Zaky-070.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-075.png, id=149, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-075.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-075.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-075.png  used on input line 1259.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [34 <./images/EMT4Geometry_Muhamad Naufal Zaky-073.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:1283: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.1283 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[35 <./images/EMT4Geometry_Muhamad Naufal Zaky-075.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-080.png, id=157, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-080.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-080.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-080.png  used on input line 1317.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [36 <./images/EMT4Geometry_Muhamad Naufal Zaky-080.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-082.png, id=161, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-082.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-082.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-082.png  used on input line 1337.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:1346: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.1346 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[37 <./images/EMT4Geometry_Muhamad Naufal Zaky-082.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-084.png, id=166, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-084.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-084.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-084.png  used on input line 1369.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+
+Overfull \hbox (38.30316pt too wide) in paragraph at lines 1371--1371
+[]\T1/pcr/m/n/10 >function g(x) &= rhs(akar[1]); $'g(x)= g(x)// fungsi yang mendefinisikan kurva di atas[] 
+ []
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-087-large.png, id=167, 314.67563pt x 27.10126pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-087-large.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-087-large.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-087-large.png  used on input line 1387.
+(pdftex.def)             Requested size: 0.0pt x 0.0pt.
+[38 <./images/EMT4Geometry_Muhamad Naufal Zaky-084.png> <./images/EMT4Geometry_Muhamad Naufal Zaky-087-large.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-090-large.png, id=171, 314.67563pt x 27.10126pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-090-large.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-090-large.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-090-large.png  used on input line 1404.
+(pdftex.def)             Requested size: 0.0pt x 0.0pt.
+
+Overfull \hbox (12.08788pt too wide) in paragraph at lines 1420--1425
+\T1/ppl/m/n/10 Saya meng-gu-nakan kom-putasi sim-bo-lik Max-ima di sini, yang menyem-bun-yikan ke-un-tun-gan utama trigonometri
+ []
+
+
+Overfull \hbox (8.92848pt too wide) in paragraph at lines 1420--1425
+\T1/ppl/m/n/10 ra-sional bahwa per-hi-tun-gan da-pat di-lakukan hanya den-gan ker-tas dan pen-sil. Anda di-un-dang un-tuk memeriksa
+ []
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-091.png, id=172, 406.51875pt x 406.51875pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-091.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-091.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-091.png  used on input line 1447.
+(pdftex.def)             Requested size: 319.01247pt x 319.0pt.
+[39 <./images/EMT4Geometry_Muhamad Naufal Zaky-090-large.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:1466: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.1466 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:1481: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.1481 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[40 <./images/EMT4Geometry_Muhamad Naufal Zaky-091.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:1522: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.1522 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[41]
+<images/EMT4Geometry_Muhamad Naufal Zaky-099-large.png, id=182, 143.03438pt x 92.59593pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-099-large.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-099-large.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-099-large.png  used on input line 1579.
+(pdftex.def)             Requested size: 16.99095pt x 11.0pt.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:1636: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.1636 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[42 <./images/EMT4Geometry_Muhamad Naufal Zaky-099-large.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-104.png, id=186, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-104.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-104.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-104.png  used on input line 1652.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+<images/EMT4Geometry_Muhamad Naufal Zaky-107-large.png, id=187, 15.80907pt x 26.34843pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-107-large.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-107-large.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-107-large.png  used on input line 1680.
+(pdftex.def)             Requested size: 0.0pt x 0.0pt.
+ [43 <./images/EMT4Geometry_Muhamad Naufal Zaky-104.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-108-large.png, id=192, 35.38219pt x 27.10126pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-108-large.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-108-large.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-108-large.png  used on input line 1681.
+(pdftex.def)             Requested size: 0.0pt x 0.0pt.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:1716: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.1716 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-115-large.png, id=193, 143.03438pt x 92.59593pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-115-large.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-115-large.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-115-large.png  used on input line 1732.
+(pdftex.def)             Requested size: 16.99095pt x 11.0pt.
+[44 <./images/EMT4Geometry_Muhamad Naufal Zaky-107-large.png> <./images/EMT4Geometry_Muhamad Naufal Zaky-108-large.png> <./images/EMT4Geometry_Muhamad Naufal Zaky-115-large.png>] [45]
+<images/EMT4Geometry_Muhamad Naufal Zaky-124-large.png, id=202, 777.65532pt x 82.05656pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-124-large.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-124-large.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-124-large.png  used on input line 1841.
+(pdftex.def)             Requested size: 104.24324pt x 11.0pt.
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 1860.
+ (C:\Program Files\MiKTeX\tex/latex/psnfss\ts1ppl.fd
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+) [46 <./images/EMT4Geometry_Muhamad Naufal Zaky-124-large.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-132-large.png, id=206, 172.39406pt x 39.14626pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-132-large.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-132-large.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-132-large.png  used on input line 1922.
+(pdftex.def)             Requested size: 0.0pt x 0.0pt.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:1940: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.1940 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-134.png, id=207, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-134.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-134.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-134.png  used on input line 1956.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+[47 <./images/EMT4Geometry_Muhamad Naufal Zaky-132-large.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-136-large.png, id=211, 837.1275pt x 115.18031pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-136-large.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-136-large.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-136-large.png  used on input line 1980.
+(pdftex.def)             Requested size: 159.88615pt x 22.0pt.
+<images/EMT4Geometry_Muhamad Naufal Zaky-137-large.png, id=212, 331.99031pt x 91.84312pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-137-large.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-137-large.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-137-large.png  used on input line 1981.
+(pdftex.def)             Requested size: 39.76112pt x 11.0pt.
+ [48 <./images/EMT4Geometry_Muhamad Naufal Zaky-134.png> <./images/EMT4Geometry_Muhamad Naufal Zaky-136-large.png> <./images/EMT4Geometry_Muhamad Naufal Zaky-137-large.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2000: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2000 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2010: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2010 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-139.png, id=216, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-139.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-139.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-139.png  used on input line 2016.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2023: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2023 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[49 <./images/EMT4Geometry_Muhamad Naufal Zaky-139.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2070: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2070 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2091: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2091 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[50]
+<images/EMT4Geometry_Muhamad Naufal Zaky-144.png, id=224, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-144.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-144.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-144.png  used on input line 2108.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+
+Overfull \hbox (44.30316pt too wide) in paragraph at lines 2120--2120
+[]\T1/pcr/m/n/10 >rabc &= rhs(solve(triplespread(spread(b,r,r),spread(a,r,r),spread(c,r,r)),r)[4]); $rabc[] 
+ []
+
+[51 <./images/EMT4Geometry_Muhamad Naufal Zaky-144.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2145: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2145 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-148.png, id=228, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-148.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-148.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-148.png  used on input line 2190.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+[52]
+<images/EMT4Geometry_Muhamad Naufal Zaky-149.png, id=232, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-149.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-149.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-149.png  used on input line 2197.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [53 <./images/EMT4Geometry_Muhamad Naufal Zaky-148.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-150.png, id=236, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-150.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-150.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-150.png  used on input line 2214.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [54 <./images/EMT4Geometry_Muhamad Naufal Zaky-149.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-151.png, id=240, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-151.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-151.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-151.png  used on input line 2221.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [55 <./images/EMT4Geometry_Muhamad Naufal Zaky-150.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-152.png, id=245, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-152.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-152.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-152.png  used on input line 2228.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [56 <./images/EMT4Geometry_Muhamad Naufal Zaky-151.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-153.png, id=249, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-153.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-153.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-153.png  used on input line 2249.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [57 <./images/EMT4Geometry_Muhamad Naufal Zaky-152.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-154.png, id=253, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-154.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-154.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-154.png  used on input line 2255.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [58 <./images/EMT4Geometry_Muhamad Naufal Zaky-153.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-155.png, id=257, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-155.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-155.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-155.png  used on input line 2266.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [59 <./images/EMT4Geometry_Muhamad Naufal Zaky-154.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-156.png, id=261, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-156.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-156.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-156.png  used on input line 2272.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [60 <./images/EMT4Geometry_Muhamad Naufal Zaky-155.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-157.png, id=265, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-157.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-157.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-157.png  used on input line 2302.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [61 <./images/EMT4Geometry_Muhamad Naufal Zaky-156.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-158.png, id=270, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-158.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-158.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-158.png  used on input line 2308.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [62 <./images/EMT4Geometry_Muhamad Naufal Zaky-157.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2317: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2317 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-159.png, id=274, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-159.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-159.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-159.png  used on input line 2331.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+[63 <./images/EMT4Geometry_Muhamad Naufal Zaky-158.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-160.png, id=278, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-160.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-160.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-160.png  used on input line 2337.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [64 <./images/EMT4Geometry_Muhamad Naufal Zaky-159.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2360: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2360 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2368: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2368 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[65 <./images/EMT4Geometry_Muhamad Naufal Zaky-160.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2379: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2379 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-161.png, id=285, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-161.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-161.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-161.png  used on input line 2392.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2399: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2399 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[66 <./images/EMT4Geometry_Muhamad Naufal Zaky-161.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2446: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2446 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2452: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2452 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-165.png, id=289, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-165.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-165.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-165.png  used on input line 2464.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+[67]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2477: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2477 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[68 <./images/EMT4Geometry_Muhamad Naufal Zaky-165.png>]
+Overfull \hbox (8.30316pt too wide) in paragraph at lines 2550--2550
+[]\T1/pcr/m/n/10 >pc1=povcylinder([0,0,P1[3]-defaultpointsize/2],[0,0,P1[3]+defaultpointsize/2],1);[] 
+ []
+
+
+Overfull \hbox (8.30316pt too wide) in paragraph at lines 2552--2552
+[]\T1/pcr/m/n/10 >pc2=povcylinder([0,0,P2[3]-defaultpointsize/2],[0,0,P2[3]+defaultpointsize/2],1);[] 
+ []
+
+[69]
+<images/EMT4Geometry_Muhamad Naufal Zaky-166.png, id=300, 338.76563pt x 338.76563pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-166.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-166.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-166.png  used on input line 2561.
+(pdftex.def)             Requested size: 264.00867pt x 264.0pt.
+
+Overfull \hbox (14.30316pt too wide) in paragraph at lines 2592--2592
+[]  \T1/pcr/m/n/10 pc1=povcylinder([0,0,P1[3]-defaultpointsize/2],[0,0,P1[3]+defaultpointsize/2],1);[] 
+ []
+
+[70 <./images/EMT4Geometry_Muhamad Naufal Zaky-166.png>]
+Overfull \hbox (14.30316pt too wide) in paragraph at lines 2594--2594
+[]  \T1/pcr/m/n/10 pc2=povcylinder([0,0,P2[3]-defaultpointsize/2],[0,0,P2[3]+defaultpointsize/2],1);[] 
+ []
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-167.png, id=304, 338.76563pt x 338.76563pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-167.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-167.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-167.png  used on input line 2605.
+(pdftex.def)             Requested size: 264.00867pt x 264.0pt.
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2623: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2623 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[71 <./images/EMT4Geometry_Muhamad Naufal Zaky-167.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2633: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2633 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (14.30316pt too wide) in paragraph at lines 2640--2640
+[]\T1/pcr/m/n/10 >Solo=[rad(-7,-34.333),rad(110,49.683)]; Semarang=[rad(-6,-59.05),rad(110,24.533)];[] 
+ []
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2643: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2643 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (68.30316pt too wide) in paragraph at lines 2654--2654
+[]\T1/pcr/m/n/10 >br=svector(FMIPA,Solo); degprint(br[1]), br[2]*rearth(7\TS1/pcr/m/n/10 °\T1/pcr/m/n/10 )->km // perkiraan jarak FMIPA-Solo[] 
+ []
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2656: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2656 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2668: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2668 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2678: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2678 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (146.30316pt too wide) in paragraph at lines 2685--2685
+[]\T1/pcr/m/n/10 >asum=sangle(Solo,FMIPA,Semarang)+sangle(FMIPA,Solo,Semarang)+sangle(FMIPA,Semarang,Solo); degprint(asum)[] 
+ []
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2687: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2687 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2698: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2698 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[72]
+Overfull \hbox (14.30316pt too wide) in paragraph at lines 2707--2707
+[]\T1/pcr/m/n/10 >esarea(Solo,FMIPA,Semarang)->" km^2", //perkiraan yang sama dengan fungsi esarea()[] 
+ []
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2709: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2709 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2721: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2721 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2731: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2731 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2743: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2743 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2754: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2754 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2763: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2763 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[73]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2775: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2775 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2784: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2784 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2813: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2813 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2831: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2831 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[74]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2844: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2844 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2863: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2863 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2875: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2875 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:2886: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.2886 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[75]
+<images/EMT4Geometry_Muhamad Naufal Zaky-168.png, id=321, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-168.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-168.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-168.png  used on input line 2919.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+<images/EMT4Geometry_Muhamad Naufal Zaky-169.png, id=322, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-169.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-169.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-169.png  used on input line 2927.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [76 <./images/EMT4Geometry_Muhamad Naufal Zaky-168.png>] [77 <./images/EMT4Geometry_Muhamad Naufal Zaky-169.png>]
+Overfull \hbox (14.30316pt too wide) in paragraph at lines 2981--2981
+[]\T1/pcr/m/n/10 >akar &= solve(getHesseForm(lineThrough(A,B),x,y,C)^2-distance([x,y],C)^2,y); $akar[] 
+ []
+
+
+Overfull \hbox (20.30316pt too wide) in paragraph at lines 2990--2990
+[]\T1/pcr/m/n/10 >setPlotRange (-10,10,-10,10); plotPoint(A,"A"); plotPoint(B,"B"); plotPoint(C,"C");[] 
+ []
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-174.png, id=329, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-174.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-174.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-174.png  used on input line 2994.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+[78 <./images/EMT4Geometry_Muhamad Naufal Zaky-174.png>]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:3062: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.3062 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[79]
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:3070: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.3070 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:3078: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.3078 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:3089: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.3089 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:3097: Undefined control sequence.
+\euleroutput ...psep =0pt\begin {alltt}\ttfamiliy 
+                                                  \ignorespaces 
+l.3097 \begin{euleroutput}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[80]
+Overfull \hbox (14.30316pt too wide) in paragraph at lines 3146--3146
+[]\T1/pcr/m/n/10 >akar &= solve(getHesseForm(lineThrough(A,B),x,y,C)^2-distance([x,y],C)^2,y); $akar[] 
+ []
+
+<images/EMT4Geometry_Muhamad Naufal Zaky-182.png, id=340, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-182.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-182.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-182.png  used on input line 3157.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+[81 <./images/EMT4Geometry_Muhamad Naufal Zaky-182.png>]
+<images/EMT4Geometry_Muhamad Naufal Zaky-183.png, id=344, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-183.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-183.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-183.png  used on input line 3161.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+<images/EMT4Geometry_Muhamad Naufal Zaky-184.png, id=345, 420.06938pt x 420.06938pt>
+File: images/EMT4Geometry_Muhamad Naufal Zaky-184.png Graphic file (type png)
+<use images/EMT4Geometry_Muhamad Naufal Zaky-184.png>
+Package pdftex.def Info: images/EMT4Geometry_Muhamad Naufal Zaky-184.png  used on input line 3165.
+(pdftex.def)             Requested size: 329.99876pt x 330.0pt.
+ [82 <./images/EMT4Geometry_Muhamad Naufal Zaky-183.png>]
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:3169: LaTeX Error: \begin{eulercomment} on input line 2173 ended by \end{eulernotebook}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3169 \end{eulernotebook}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+d:/Aplikasi Komputer/Pertemuan Pekan 11-12/EMT4Geometry_Muhamad Naufal Zaky.tex:3170: LaTeX Error: \begin{eulercomment} on input line 2172 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3170 \end{document}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[83 <./images/EMT4Geometry_Muhamad Naufal Zaky-184.png>] (EMT4Geometry_Muhamad Naufal Zaky.aux)
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+ ***********
+ )
+(\end occurred inside a group at level 4)
+
+### semi simple group (level 4) entered at line 2172 (\begingroup)
+### semi simple group (level 3) entered at line 1411 (\begingroup)
+### semi simple group (level 2) entered at line 1409 (\begingroup)
+### semi simple group (level 1) entered at line 6 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 3935 strings out of 474587
+ 80139 string characters out of 5755519
+ 1940558 words of memory out of 5000000
+ 26051 multiletter control sequences out of 15000+600000
+ 571862 words of font info for 66 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,6n,79p,339b,434s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb>
+Output written on "EMT4Geometry_Muhamad Naufal Zaky.pdf" (83 pages, 1815946 bytes).
+PDF statistics:
+ 418 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 366 words of extra memory for PDF output out of 10000 (max. 10000000)
+
